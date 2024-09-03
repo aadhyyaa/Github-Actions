@@ -1,7 +1,7 @@
 class Hello:
     @staticmethod
     def ans():
-        answer = input("What is the capital of India?  ")
+        answer = input("What is the capital of India?")
         return answer
     
 
