@@ -1,8 +1,7 @@
 class Hello:
     @staticmethod
     def ans():
-        answer = input("What is the capital of India?")
-        return answer
+        return 'New Delhi'
     
 
 if __name__ == '__main__':
