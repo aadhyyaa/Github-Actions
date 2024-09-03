@@ -1,7 +1,7 @@
 class Hello:
     @staticmethod
     def hello_world():
-        greeting = input('Enter a greeting')
+        greeting = 'Hello World'
         return greeting
     
 
